@@ -36,5 +36,5 @@ I am a full stack developer able to build a web presence from the ground up - fr
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-373F56?logo=aws&logoColor=white" />
 
   
- ⭐️ From [VictoriaDefagot](https://github.com/VictoriaDefagot)
+ ⭐️ From [VictoriaDefago](https://github.com/VictoriaDefago)
 
