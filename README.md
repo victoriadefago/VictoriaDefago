@@ -24,9 +24,9 @@ I am a full stack developer able to build a web presence from the ground up - fr
 ![Express](https://img.shields.io/badge/-Express-orange?style=flat&logo=express)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-green?style=flat&logo=next.js)
-![Remix Run](https://img.shields.io/badge/-Remix Run-yellow?style=flat&logo=remix)
+![Remix Run](https://img.shields.io/badge/-Remix-yellow?style=flat&logo=remix)
 ![Redux](https://img.shields.io/badge/-Redux-gray?style=flat&logo=redux)
-![Vite](https://img.shields.io/badge/-React-purple?style=flat&logo=remix)
+![Vite](https://img.shields.io/badge/-Vite-purple?style=flat&logo=remix)
 ![Strapi](https://img.shields.io/badge/-Strapi-red?style=flat&logo=strapi)
 ![HTML5](https://img.shields.io/badge/-HTLM5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -34,7 +34,7 @@ I am a full stack developer able to build a web presence from the ground up - fr
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat-square&logo=postgresql)
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="JWT" src="https://img.shields.io/badge/-JWT-373F86?logo=jwt&logoColor=white" />
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
