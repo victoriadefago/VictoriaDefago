@@ -23,7 +23,7 @@ I am a full stack developer able to build a web presence from the ground up - fr
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-orange?style=flat&logo=express)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Nextjs-white?style=flat&logo=next.js)
+![Next.js](https://img.shields.io/badge/-Nextjs-green?style=flat&logo=next.js)
 ![Remix Run](https://img.shields.io/badge/-Remix-yellow?style=flat&logo=remix)
 ![Redux](https://img.shields.io/badge/-Redux-gray?style=flat&logo=redux)
 ![Vite](https://img.shields.io/badge/-React-purple?style=flat&logo=remix)
@@ -38,8 +38,8 @@ I am a full stack developer able to build a web presence from the ground up - fr
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="JWT" src="https://img.shields.io/badge/-JWT-373F86?logo=jwt&logoColor=white" />
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Heroku-green?style=flat&logo=netlify)
-![Gatsby](https://img.shields.io/badge/-Gastvy-orange?style=flat&logo=gatsby)
+![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat&logo=netlify)
+![Gatsby](https://img.shields.io/badge/-Gastby-orange?style=flat&logo=gatsby)
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-373F56?logo=aws&logoColor=white" />
 
