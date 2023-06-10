@@ -3,13 +3,13 @@
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/victoriadefagot/">
-    <img align="left" alt="Victoria's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" color="2f81f7" alt="Victoria's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="mailto:defagotvictoria@gmail.com">
-    <img align="left" alt="Victoria's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" color="2f81f7" alt="Victoria's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   <a href="https://www.instagram.com/vi.victoriad/">
-    <img align="left" alt="Victoria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="left" color="2f81f7" alt="Victoria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
 
@@ -44,5 +44,5 @@ I am a full stack developer able to build a web presence from the ground up - fr
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-373F56?logo=aws&logoColor=white" />
 
   
- ⭐️ From [VictoriaDefago](https://github.com/VictoriaDefago)
+ ⭐️ From [victoriadefago](https://github.com/victoriadefago)
 
