@@ -42,6 +42,7 @@ I am a full stack developer able to build a web presence from the ground up - fr
 ![Gatsby](https://img.shields.io/badge/-Gastby-orange?style=flat&logo=gatsby)
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-373F56?logo=aws&logoColor=white" />
+![Motoko](https://img.shields.io/badge/-Motoko-green?style=flat&logo=motoko)
 
   
  ⭐️ From [victoriadefago](https://github.com/victoriadefago)
