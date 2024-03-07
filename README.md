@@ -2,13 +2,13 @@
 <h3 align="center">  Tech Enthusiast | Full Stack Developer :computer:  </h3>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/victoriadefagot/">
+  <a href="">
     <img align="left" color="2f81f7" alt="Victoria's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="mailto:defagotvictoria@gmail.com">
     <img align="left" color="2f81f7" alt="Victoria's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-  <a href="https://www.instagram.com/vi.victoriad/">
+  <a href="">
     <img align="left" color="2f81f7" alt="Victoria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
