@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Skilled at writing well-designed, testable and efficient code using current best practices in web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia web tools.
+Skilled at writing well-designed, testable and efficient code using current best practices in development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia tools.
 
 ### My Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
